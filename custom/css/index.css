@@ -1,0 +1,13 @@
+.myform{
+    background-color: aliceblue;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+}
+.myrow{
+    border: 1px solid rgb(245, 223, 169);
+    border-radius: 5px;
+}
+.table-Area{
+    border: 1px solid rgb(248, 220, 148);
+    border-radius: 5px;
+}
